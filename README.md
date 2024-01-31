@@ -1,4 +1,4 @@
-# EG-VGAE
+# EG-VGAE/EGC-VGAE
 The experiment implementation (PyTorch) for paper Unveiling Community Structures in Static Networks through Graph Variational Bayes with Evolution Information
 
 # NOTE
