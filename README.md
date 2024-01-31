@@ -1,6 +1,11 @@
 # EG-VGAE
+The experiment implementation (PyTorch) for paper Unveiling Community Structures in Static Networks through Graph Variational Bayes with Evolution Information
 
-Junwei Cheng, Chaobo He, Kunlin Han, Gangbin Chen, Wanying Liang, and Yong Tang, "Unveiling Community Structures in Static Networks through Graph Variational Bayes with Evolution Information", submitted to Neurocomputing. 
+# NOTE
+- Please decompress the data in the compressed package directly
+- run EGC_VGAE.py directly
 
-
-To avoid copyright conflicts, the complete code will be made accessible within seven working days after the paper is accepted.
+# CITE
+```
+J. Cheng, C. He, K. Han et al., Unveiling community structures in static networks through graph variational bayes with evolution information, Neurocomputing (2024), doi: https://doi.org/10.1016/j.neucom.2024.127349.
+```

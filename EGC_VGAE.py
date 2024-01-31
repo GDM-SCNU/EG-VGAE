@@ -2,8 +2,8 @@
 # Author: Jung
 # Time: 2023/3/12 15:06
 
-from Jung import utils
-from Jung import evaluate
+import utils
+import evaluate
 import torch
 import numpy as np
 import dgl
